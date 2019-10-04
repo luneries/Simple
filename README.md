@@ -1,1 +1,1 @@
-# Simple calculator design
+# Simple Excercises
